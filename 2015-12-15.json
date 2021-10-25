@@ -1,0 +1,27 @@
+{
+  "ScheduleResult": {
+    "Schedules": [
+      {
+        "ContractTimeMinutes": 480,
+        "Date": "/Date(1450134000000+0000)/",
+        "IsFullDayAbsence": false,
+        "Name": "Daniel Billsus",
+        "PersonId": "4fd900ad-2b33-469c-87ac-9b5e015b2564",
+        "Projection": [
+          {
+            "Color": "#1E90FF",
+            "Description": "Social Media",
+            "Start": "/Date(1450170000000+0000)/",
+            "minutes": 120
+          },
+          {
+            "Color": "#FF0000",
+            "Description": "Long break",
+            "Start": "/Date(1450177200000+0000)/",
+            "minutes": 90
+          }
+        ]
+      }
+    ]
+  }
+}
